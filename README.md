@@ -1,4 +1,6 @@
-# dekranasdasip.com – Full Optimization & Security Hardening Report
+[Chibi Web Dev Hacker] (https://files.catbox.moe/tt5u2w.png)
+
+# dekranasdasip.com – Full Optimization & Security Hardening Report by dev sOta
 **November 1–22, 2025** | Cloudflare + Hostinger Horizons | Final Status: COMPLETED
 
 ## Final Results (22 November 2025)
