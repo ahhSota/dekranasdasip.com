@@ -1,4 +1,4 @@
-[Chibi Web Dev Hacker](https://files.catbox.moe/tt5u2w.png)
+![alt text](https://github.com/ahhSota/dekranasdasip.com/blob/main/img/WhatsApp%20Image%202025-11-22%20at%2019.46.51.jpeg)
 
 # dekranasdasip.com – Full Optimization & Security Hardening Report by dev sOta
 **November 1–22, 2025** | Cloudflare + Hostinger Horizons | Final Status: COMPLETED
