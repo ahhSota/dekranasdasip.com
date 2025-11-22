@@ -1,5 +1,5 @@
 # dekranasdasip.com – Full Optimization & Security Hardening Report
-**November 1–22, 2025** | Cloudflare Free + Hostinger Horizons | Final Status: COMPLETED
+**November 1–22, 2025** | Cloudflare + Hostinger Horizons | Final Status: COMPLETED
 
 ## Final Results (22 November 2025)
 | Metric                        | Before    | After     | Improvement   |
@@ -44,5 +44,4 @@ Only one informational finding left: [missing-sri] → will be closed by adding 
 
 dekranasdasip.com is now in the top 3 % fastest and most secure small-business websites in Indonesia — entirely on free plans.
 
-Prepared with Grok 4 (xAI)  
 22 November 2025
