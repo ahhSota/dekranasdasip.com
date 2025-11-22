@@ -1,4 +1,4 @@
-[Chibi Web Dev Hacker] (https://files.catbox.moe/tt5u2w.png)
+[Chibi Web Dev Hacker](https://files.catbox.moe/tt5u2w.png)
 
 # dekranasdasip.com – Full Optimization & Security Hardening Report by dev sOta
 **November 1–22, 2025** | Cloudflare + Hostinger Horizons | Final Status: COMPLETED
