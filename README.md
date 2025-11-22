@@ -1,4 +1,4 @@
-![alt text](https://github.com/ahhSota/dekranasdasip.com/blob/main/img/WhatsApp%20Image%202025-11-22%20at%2019.46.51.jpeg)
+![alt text]([https://github.com/ahhSota/dekranasdasip.com/blob/main/img/4444445(1)(1).png)
 
 # dekranasdasip.com – Full Optimization & Security Hardening Report by dev sOta
 **November 1–22, 2025** | Cloudflare + Hostinger Horizons | Final Status: COMPLETED
