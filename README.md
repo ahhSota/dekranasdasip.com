@@ -1,4 +1,4 @@
-![alt text]([https://github.com/ahhSota/dekranasdasip.com/blob/main/img/4444445(1)(1).png)
+![alt text](https://github.com/ahhSota/dekranasdasip.com/blob/main/img/4444445(1)(1).png)
 
 # dekranasdasip.com – Full Optimization & Security Hardening Report by dev sOta
 **November 1–22, 2025** | Cloudflare + Hostinger Horizons | Final Status: COMPLETED
