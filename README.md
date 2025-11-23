@@ -14,6 +14,7 @@
 | Security Headers Grade        | C         | **A+**    |               |
 
 Live proofs:
+
 → https://pagespeed.web.dev/analysis?url=https://dekranasdasip.com
 
 → https://securityheaders.com/?q=https://dekranasdasip.com
