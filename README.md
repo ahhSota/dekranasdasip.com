@@ -8,9 +8,9 @@
 |-------------------------------|-----------|-----------|---------------|
 | Page Speed Mobile              | 87        | **96**    | +9            |
 | Page Speed Desktop             | 92       | **100**   | +8            |
-| Largest Contentful Paint      | 1.9 s     | **1.3 s** | –32 %         |
-| Total Blocking Time           | 80 ms     | **0 ms**  | –100 %        |
-| Nuclei Security Findings      | 37        | **1** (info only) | –97 % |
+| Largest Contentful Paint      | 1.9 s     | **1.3 s** | -32 %         |
+| Total Blocking Time           | 80 ms     | **0 ms**  | -100 %        |
+| Nuclei Security Findings      | 37        | **1** (info only) | -97 % |
 | Security Headers Grade        | C         | **A+**    |               |
 
 Live proofs:
